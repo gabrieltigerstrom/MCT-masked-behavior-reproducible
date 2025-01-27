@@ -8,7 +8,7 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <Label Text="Try writing 1 200 000 without spaces in the field below. Last quote gets omitted."/>
+            <Label Text="Try writing 120 00 00 without spaces in the field below. Last quote gets omitted."/>
 
             <Entry>
                 <Entry.Behaviors>
